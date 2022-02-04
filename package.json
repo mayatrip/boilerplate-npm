@@ -1,6 +1,6 @@
 {
-	"author": "Maya Tripathy",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Maya Tripathy",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
